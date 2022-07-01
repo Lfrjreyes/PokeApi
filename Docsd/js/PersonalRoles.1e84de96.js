@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuetify"]=self["webpackChunkvuetify"]||[]).push([[149],{3540:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},u=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("personal y roles ")])])}],l={name:"PersonalRoles"},s=l,c=t(3736),a=(0,c.Z)(s,r,u,!1,null,"0b2254c0",null),f=a.exports}}]);
+//# sourceMappingURL=PersonalRoles.1e84de96.js.map
